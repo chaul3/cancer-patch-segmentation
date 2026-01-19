@@ -8,11 +8,11 @@ This project processes knee X-ray images to extract corner squares that contain 
 
 ## Features
 
-- 🚀 **Ultra-fast processing**: ~930 images/second
-- 🎯 **High accuracy**: 97.8% success rate  
-- 🖼️ **Same-size output**: Maintains original image dimensions
-- ⚡ **No complexity**: Direct corner detection without unnecessary error handling
-- 📊 **Visual feedback**: Progress tracking and result visualization
+- **Ultra-fast processing**: ~930 images/second
+- **High accuracy**: 97.8% success rate  
+- **Same-size output**: Maintains original image dimensions
+- **No complexity**: Direct corner detection without unnecessary error handling
+- **Visual feedback**: Progress tracking and result visualization
 
 ## Method Evolution
 
@@ -95,7 +95,3 @@ The ultra-fast method successfully processes all images by:
 4. **Size Preservation**: Maintains original image dimensions
 
 Perfect for batch processing large datasets of medical images with directional markers!
-
----
-
-*Built with ❤️ for medical image processing*
